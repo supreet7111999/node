@@ -17,4 +17,6 @@ async function getData(){
     console.log(response); //printing the response
 }
 
+
+
 getData(); //calling the fun
